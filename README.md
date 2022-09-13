@@ -1,2 +1,2 @@
 # Mala direta
- Página HTML criada para corpo de e-mails da empresa
+ Página HTML simples criada para corpo de e-mails da empresa WRX.
